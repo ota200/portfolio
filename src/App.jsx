@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
 
-      <h1>Comeing Soon</h1>
+      <h1>Coming Soon</h1>
 
     </div>
   );
