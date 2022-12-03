@@ -1,18 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-import Home from './Home';
-import About from './About';
-import Nav_bar from './Nav_bar';
-
-
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
-  <Nav_bar />
-  <Home />
+  <App />
 
 
   </>
